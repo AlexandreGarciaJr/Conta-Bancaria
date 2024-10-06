@@ -1,4 +1,4 @@
-### 💲 Conta Bancária 💹
+### 💲 Conta Bancária
 
 - #### Registro de dados bancários de usuário em programa básico
 ### Tecnologias:
